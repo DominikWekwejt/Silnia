@@ -7,7 +7,15 @@ This project is simple Factorial calculator.
 	
 ## Setup
 To run this project, install it locally using npm:
-
-$ cd ../Silnia
+<br>
+back:
+```
 $ npm install
 $ npm start
+```
+front:
+open new terminal(Ctrl+~)
+```
+$ cd Silnia
+$ npm start
+```
